@@ -7,7 +7,7 @@ import { connect } from "cloudflare:sockets";
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = "86c50e3a-5b87-49dd-bd20-03c7f2735e40";
 
-const proxyIPs = ["ts.hpc.tw"]; 
+const proxyIPs = ["103.168.146.169:20132"]; 
 const cn_hostnames = [''];
 let CDNIP = 'www.visa.com.sg'
 // http_ip
